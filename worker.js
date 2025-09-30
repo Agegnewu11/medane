@@ -12,7 +12,7 @@ const API_ENDPOINTS = {
 // Bot configuration
 const BOT_CONFIG = {
     ADMIN_ID: 8250489814, // Replace with your admin user ID
-    WEBHOOK_URL: 'https://your-worker.your-subdomain.workers.dev', // ← REPLACE WITH YOUR ACTUAL WORKER URL
+    WEBHOOK_URL: 'https://elab-id-bot.agegnewu13.workers.dev/', // ← REPLACE WITH YOUR ACTUAL WORKER URL
     CHANNEL_USERNAME: '@Elabcode', // Channel that users must join
     CHANNEL_ID: -1002135819634 // Replace with your channel ID (with -100 prefix)
 };
