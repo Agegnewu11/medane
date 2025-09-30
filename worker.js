@@ -3,7 +3,7 @@
 // Copyright 2025 Elabcode. All rights reserved.
 // Deployed on Cloudflare Workers
 // Version 7.0
-const BOT_TOKEN = "8473849061:AAFFhvo6-3c7nTxj0ko1VlGf9W7px6aer3Q"; // Insert your bot token here
+const BOT_TOKEN = "7720878098:AAFoXGnIDIg-EAvVDeVPn714Vi_1QqZtX5w"; // Insert your bot token here
 
 const API_ENDPOINTS = {
     TELEGRAM_API: `https://api.telegram.org/bot${BOT_TOKEN}`
@@ -14,7 +14,7 @@ const BOT_CONFIG = {
     ADMIN_ID: 8250489814, // Replace with your admin user ID
     WEBHOOK_URL: 'https://your-worker.your-subdomain.workers.dev', // ← REPLACE WITH YOUR ACTUAL WORKER URL
     CHANNEL_USERNAME: '@Elabcode', // Channel that users must join
-    CHANNEL_ID: -1001234567890 // Replace with your channel ID (with -100 prefix)
+    CHANNEL_ID: -1002135819634 // Replace with your channel ID (with -100 prefix)
 };
 
 // Star donation amounts
